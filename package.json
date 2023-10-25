@@ -8,11 +8,11 @@
 		"t-start": "next start",
 		"t-lint": "next lint",
 		"t-check": "ncu --interactive --format group",
-		"dev": "turbo dev",
-		"build": "turbo build",
-		"start": "turbo start",
-		"lint": "turbo lint",
-		"check": "turbo check",
+		"dev": "turbo t-dev",
+		"build": "turbo t-build",
+		"start": "turbo t-start",
+		"lint": "turbo t-lint",
+		"check": "turbo t-check",
 		"all": "npm-run-all -p -r dev"
 	},
 	"devDependencies": {
