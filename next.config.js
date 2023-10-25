@@ -5,7 +5,7 @@ const nextConfig = {
 			fallback: [
 				{
 					source: "/:path*",
-					destination: `https://marcoantolini.com/:path*`,
+					destination: `https://marcoantolini.com/next-app-template/:path*`,
 				},
 			],
 		};
