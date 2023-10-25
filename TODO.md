@@ -1,8 +1,6 @@
 # PACKAGES
 
-## FIRST
-
-- [ ] turbo
+TODO: fare una sola repo con cartella template e cartella cli
 
 ## DATABASE
 
@@ -33,12 +31,11 @@
 
 ## UTILITY
 
+- [ ] sonner (toast)
 - [ ] react-hook-form
 - [ ] react-icons
-- [ ] shoehorn
 - [ ] nextjs-progressbar
 - [ ] next-themes
-- [ ] npm-check-updates
 - [ ] nextjs-google-analytics
 
 ## OTHER
