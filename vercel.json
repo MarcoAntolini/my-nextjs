@@ -1,9 +1,0 @@
-{
-	"redirects": [
-		{
-			"source": "/",
-			"destination": "https://marcoantolini.com/next-app-template",
-			"permanent": true
-		}
-	]
-}
